@@ -1,0 +1,56 @@
+<devices>
+    <vendor Name="Asus">
+        <device CodeName="Flo" FullName="Nexus 7 (2013)" Maintainer="errantzebra845" />
+        <device CodeName="Grouper" FullName="Nexus 7" Maintainer="rc420head" />
+    </vendor>
+    <vendor Name="HTC">
+        <device CodeName="Evita" FullName="One XL" Maintainer="flashalot" />
+        <device CodeName="Flounder" FullName="Nexus 9" Maintainer="cuzz1369" />
+        <device CodeName="M7" FullName="One GSM" Maintainer="rc420head" />
+        <device CodeName="M7SPR" FullName="One SPR" Maintainer="rc420head" />
+        <device CodeName="M7VZW" FullName="One VZW" Maintainer="rc420head" />
+        <device CodeName="M8" FullName="One M8" Maintainer="rc420head" />
+        <device CodeName="T6" FullName="One Max GSM" Maintainer="gimmeitorilltell" />
+        <device CodeName="T6DWG" FullName="One Max DWG" Maintainer="gimmeitorilltell" />
+        <device CodeName="T6SPR" FullName="One Max SPR" Maintainer="gimmeitorilltell" />
+        <device CodeName="T6VZW" FullName="One Max VZW" Maintainer="gimmeitorilltell" />
+    </vendor>
+    <vendor Name="LG">
+        <device CodeName="D850" FullName="G3 ATT" Maintainer="cuzz1369" />
+        <device CodeName="D851" FullName="G3 TMO" Maintainer="cuzz1369" />
+        <device CodeName="D852" FullName="G3 CAN" Maintainer="cuzz1369" />
+        <device CodeName="D855" FullName="G3 EUR" Maintainer="cuzz1369" />
+        <device CodeName="Hammerhead" FullName="Nexus 5" Maintainer="errantzebra845" />
+        <device CodeName="LS990" FullName="G3 SPR" Maintainer="cuzz1369" />
+        <device CodeName="Mako" FullName="Nexus 4" Maintainer="cuzz1369" />
+        <device CodeName="V410" FullName="G Pad 10.1" Maintainer="timmytim" />
+    </vendor>
+    <vendor Name="Motorola">
+        <device CodeName="Falcon" FullName="Moto G" Maintainer="neokackt" />
+        <device CodeName="Titan" FullName="Moto G 2014" Maintainer="neokackt" />
+    </vendor>
+    <vendor Name="OnePlus">
+        <device CodeName="Bacon" FullName="One" Maintainer="errantzebra845" />
+    </vendor>
+    <vendor Name="Samsung">
+        <device CodeName="Exhilarate" FullName="Galaxy Exhilarate" Maintainer="javelinanddart" />
+        <device CodeName="Hercules" FullName="Galaxy S II TMO" Maintainer="NoSpamSan" />
+        <device CodeName="Quincyatt" FullName="Galaxy Note I ATT" Maintainer="gimmeitorilltell" />
+        <device CodeName="Quincydcm" FullName="Galaxy Note I NTT DoCoMo" Maintainer="javelinanddart" />
+        <device CodeName="Quincytmo" FullName="Galaxy Note I TMO" Maintainer="javelinanddart" />
+        <device CodeName="Skyrocket" FullName="Galaxy S II Skyrocket" Maintainer="NoSpamDan" />
+        <device CodeName="T769" FullName="Galaxy S Blaze 4G" Maintainer="javelinanddart" />
+    </vendor>
+    <vendor Name="Sony">
+        <device CodeName="Honami" FullName="Xperia Z1" Maintainer="Alx31" />
+        <device CodeName="Odin" FullName="Xperia ZL" Maintainer="Alx31" />
+        <device CodeName="Pollux_windy" FullName="Xperia Tablet Z" Maintainer="Alx31" />
+        <device CodeName="Sirius" FullName="Xperia Z2" Maintainer="zzitoz" />
+        <device CodeName="Yuga" FullName="Xperia Z" Maintainer="Alx31" />
+        <device CodeName="Z3" FullName="Xperia Z3" Maintainer="Alx31" />
+    </vendor>
+    <vendor Name="Yu">
+        <device CodeName="Lettuce" FullName="Yuphoria" Maintainer="Meninblack007" />
+        <device CodeName="Tomato" FullName="Yureka" Maintainer="Meninblack007" />
+    </vendor>
+</devices>

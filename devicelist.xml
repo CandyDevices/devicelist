@@ -34,7 +34,7 @@
     </vendor>
     <vendor Name="Samsung">
         <device CodeName="Exhilarate" FullName="Galaxy Exhilarate" Maintainer="javelinanddart" />
-        <device CodeName="Hercules" FullName="Galaxy S II TMO" Maintainer="NoSpamSan" />
+        <device CodeName="Hercules" FullName="Galaxy S II TMO" Maintainer="NoSpamDan" />
         <device CodeName="Quincyatt" FullName="Galaxy Note I ATT" Maintainer="gimmeitorilltell" />
         <device CodeName="Quincydcm" FullName="Galaxy Note I NTT DoCoMo" Maintainer="javelinanddart" />
         <device CodeName="Quincytmo" FullName="Galaxy Note I TMO" Maintainer="javelinanddart" />

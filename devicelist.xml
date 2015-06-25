@@ -5,8 +5,9 @@
     </vendor>
     <vendor Name="HTC">
         <device CodeName="Evita" FullName="One XL" Maintainer="flashalot" />
+        <device CodeName="Jewel" FullName="Evo 4G lte" Maintainer="flashalot" />
         <device CodeName="Flounder" FullName="Nexus 9" Maintainer="cuzz1369" />
-        <device CodeName="M7" FullName="One GSM" Maintainer="rc420head" />
+        <device CodeName="M7" FullName="One GSM" Maintainer="flashalot" />
         <device CodeName="M7SPR" FullName="One SPR" Maintainer="rc420head" />
         <device CodeName="M7VZW" FullName="One VZW" Maintainer="rc420head" />
         <device CodeName="M8" FullName="One M8" Maintainer="rc420head" />
@@ -14,6 +15,7 @@
         <device CodeName="T6DWG" FullName="One Max DWG" Maintainer="gimmeitorilltell" />
         <device CodeName="T6SPR" FullName="One Max SPR" Maintainer="gimmeitorilltell" />
         <device CodeName="T6VZW" FullName="One Max VZW" Maintainer="gimmeitorilltell" />
+        <device CodeName="Ville" FullName="One S" Maintainer="flashalot" />
     </vendor>
     <vendor Name="LG">
         <device CodeName="D850" FullName="G3 ATT" Maintainer="cuzz1369" />
